@@ -1,0 +1,35 @@
+.background{
+    
+    background-image: url(https://wi-images.condecdn.net/image/doEYpG6Xd87/crop/2040/f/weather.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding: 9%;
+    
+    
+}
+
+.jumbotron{
+    background: transparent;
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+
+body{
+   background-color: rgb(73,183,233); 
+   font-family: Helvetica, sans-serif;
+   font-weight: 600	
+}
+
+#icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.cor{
+    background-color:#e8f4f8 ;
+}
